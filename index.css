@@ -3,7 +3,7 @@
 @import url(./blocks/body/body.css);
 @import url(./blocks/main/main.css);
 
-@import url(./blocks/to-do/to-do.css);
+@import url(./blocks/to-do/__title);
 @import url(./blocks/to-do/__form);
 @import url(./blocks/to-do/__form/to-do__form.css);
 @import url(./blocks/to-do/__input/to-do__input.css);
